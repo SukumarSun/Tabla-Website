@@ -1,0 +1,49 @@
+
+
+.what-div{
+    background-color: antiquewhite;
+    padding: 20px;
+ 
+}
+
+.what-head{
+    text-align: center;
+    font-size: 42;
+    font-weight: 500;
+    margin-bottom: 50px;
+    color: black;
+}
+
+.what-para{
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.what-button-div{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+.back{
+    background-color: cornflowerblue;
+    font-size: 20px;
+    border-radius: 4px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 50px;
+    /* margin-bottom: 100px; */
+}
+
+
+.image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
